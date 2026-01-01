@@ -11,8 +11,8 @@ import logging
 import os
 
 # ===== НАСТРОЙКИ =====
-TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН_ОТ_BOTFATHER"
-ADMINS = [123456789]  # <-- ВСТАВЬ СВОЙ TELEGRAM ID
+TOKEN = "8086546491:AAEoPQhptnG4s3mgs6IGFx5UkCTVER6PRps"
+ADMINS = [319425268]  # <-- ВСТАВЬ СВОЙ TELEGRAM ID
 
 DB = "fishing.db"
 
